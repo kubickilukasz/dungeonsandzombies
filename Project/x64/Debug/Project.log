@@ -1,0 +1,45 @@
+﻿  MenuVictory.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(13): warning C4244: 'argument': conversion from 'float' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(17): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(18): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(22): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(23): warning C4244: '-=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(27): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(32): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project.vcxproj -> C:\Users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\Projekt\Project\x64\Debug\Project.exe

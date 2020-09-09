@@ -1,0 +1,9 @@
+window_name DungeonsAndZombies
+width 1000
+height 800
+windowed 0
+textures textures.txt
+images images.txt
+levels_folder levels_folder
+max_frame_rate 300
+zoom 0.5

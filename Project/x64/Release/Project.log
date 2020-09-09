@@ -1,0 +1,172 @@
+﻿  AttackDirectionObject.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\attackdirectionobject.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\attackdirectionobject.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\bullet.cpp(7): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ChangeLevelButton.cpp
+  Enemy.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\enemy.cpp(10): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\enemy.cpp(19): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ExitButton.cpp
+  GameManager.cpp
+  Level.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(270): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\level.cpp(271): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Magus.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\magus.cpp(48): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  MenuDeath.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(13): warning C4244: 'argument': conversion from 'float' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(17): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(18): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(22): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(23): warning C4244: '-=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menudeath.cpp(50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MenuInGame.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(12): warning C4244: 'argument': conversion from 'float' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(17): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(18): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(23): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(24): warning C4244: '-=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(30): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuingame.cpp(37): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  MenuVictory.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(13): warning C4244: 'argument': conversion from 'float' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(17): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(18): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(22): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(23): warning C4244: '-=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(27): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(32): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\menuvictory.cpp(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Mixture.cpp
+  ResumeButton.cpp
+  Player.cpp
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\player.cpp(9): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\projekt\project\project\player.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+  VictoryTrigger.cpp
+  Zombie.cpp
+  Generating code
+  85 of 2406 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    45 functions were new in current compilation
+    178 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project.vcxproj -> C:\Users\lukas\source\repos\polsl-aei-pk4\4c08227b-gr52-repo\Projekt\Project\x64\Release\Project.exe
